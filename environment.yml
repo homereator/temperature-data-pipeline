@@ -1,0 +1,10 @@
+dependencies:
+  - python=3.6
+  - pip
+  - pandas
+  - sqlite
+  - requests
+  - matplotlib
+  - python-dotenv
+  - pip:
+    - meteostat

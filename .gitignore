@@ -1,3 +1,10 @@
+# Existing test data
+data/*.db
+
+# VSCode 
+.vscode/
+
+# Predefined gitignore content for python projects
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
